@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">RxJavaDynamic</string>
+    <string name="tutorial_text">Tutorial</string>
+    <string name="ok_text">Ok</string>
+    <string name="tutorial_message_text">To open details page click on the character name.</string>
+    <string name="details_text">This is %s from %s and gender is %s. First debuted in episode %s</string>
+    <string name="episode_unknown">Unknown</string>
+</resources>
